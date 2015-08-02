@@ -1,0 +1,3 @@
+auto -  from stack
+static - main memory
+dynamic - from heap
