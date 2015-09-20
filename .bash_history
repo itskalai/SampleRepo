@@ -1,98 +1,3 @@
-ls
-cd JavaProjects/
-ls
-cat HelloWorld.java 
-vi HelloWorld.java 
-ls -l
-chmod 700 HelloWorld.java 
-vi HelloWorld.java 
-HelloWorld
-javac HelloWorld.java 
-pwd
-which java
-ls
-export PATH=$PATH:"/cygdrive/c/windows/system32/java
-
-export PATH=$PATH:"/cygdrive/c/windows/system32/java
-export PATH=$PATH:"/cygdrive/c/windows/system32/java
-export PATH=$PATH:"/cygdrive/c/windows/system32/java
-export PATH=$PATH:"/cygdrive/c/windows/system32/java"
-
-export PATH=$PATH:"/cygdrive/c/windows/system32/java"
-javac HelloWorld.java 
-which java
-export PATH=$PATH:"/cygdrive/c/windows/system32/java
-export PATH=$PATH:"/cygdrive/c/windows/system32/java"
-
-
-
-
-
-which java
-ls
-export PATH=$PATH:"/cygdrive/c/windows/system32/java\bin"
-javac
-export PATH=$PATH:"/cygdrive/c/windows/system32/java/bin"
-javac
-ls /cygdrive/c/windows/system32/java/bin
-javac
-whereis javac
-which javac
-ls
-ls
-ls
-cd /cygdrive/c
-ls
-cd Users/shanmu/
-ls
-cd Downloads/
-ls
-ls
-cd 
-ls
-mkdir TIJ4_code
-cls
-ls
-mv * TIJ4_code/
-ls
-cd TIJ4_code/
-ls
-find . *.* | grep AType
-ls
-cd object/
-ls
-vi HelloDate.java 
-ls
-cd 
-ls
-cd JavaProjects/
-ls
-cd TIJ
-ls
-mv DefaultInit.java E01_DefaultInit.java
-vi E01_DefaultInit.java 
-ls
-rm DefaultInit.class 
-javac E01_DefaultInit.java 
-exity
-exit
-javac
-exit
-javac
-java
-javac
-exit
-telnet localhost 5554
-ls
-man telnet
-whereis telent
-which telnet
-ls
-vi ll.c
-cc ll.c 
-vi ll.c 
-cc ll.c 
-vi ll.c 
 cc ll.c 
 vi ll.c
 cc ll.c 
@@ -345,3 +250,251 @@ rm strcopy.c
 vi copystr.c
 cc copystr.c 
 ./a.exe 
+vi prgm.cpp
+gcc prgm.cpp 
+vi prgm.cpp 
+gcc prgm.cpp 
+gcc prgm.cpp 
+vi prgm.cpp 
+gcc prgm.cpp 
+clear
+cls
+tput clear
+vi longword.cpp
+gcc longword.cpp 
+vi longword.cpp
+gcc longword.cpp 
+vi longword.cpp
+gcc longword.cpp 
+vi longword.cpp
+gcc longword.cpp 
+vi lw.cpp
+gcc lw.cpp 
+vi tst.cpp
+gcc tst.cpp 
+vi tst.cpp
+gcc tst.cpp 
+vi tst.cpp
+rm tst.cpp
+vi tst.cpp
+gcc tst.cpp 
+ls
+ls -lrt
+rm tst.cpp 
+rm lw.cpp 
+rm longword.cpp 
+rm prgm.cpp 
+vi tst.cpp
+gcc tst.cpp 
+gcc tst.cpp 
+vi tst.cpp
+gcc tst.cpp 
+cc tst.cpp 
+cpp
+vi sortwords.cpp
+cpp sortwords.cpp 
+gcc sortwords.cpp 
+./a.exe 
+vi sortwords.cpp 
+gcc sortwords.cpp 
+vi sortwords.cpp 
+gcc sortwords.cpp 
+vi sortwords.cpp 
+gcc sortwords.cpp 
+vi sortwords.cpp 
+gcc sortwords.cpp 
+vi sortwords.cpp 
+gcc sortwords.cpp 
+vi sortwords.cpp 
+vi tst.cpp
+cpp tst.cpp 
+gcc tst.cpp 
+vi tst.cpp
+gcc tst.cpp 
+vi tst.cpp
+gcc tst.cpp 
+vi tst.cpp
+gcc tst.cpp 
+c++
+ls
+ls -lrt
+c++ tst.cpp 
+./a.exe 
+vi lw.cpp
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp
+c++ lw.cpp 
+./a.exe 
+./a.exe test.txt
+vi test.txt
+./a.exe test.txt
+vi test.txt
+vi test.txt
+vi lw.cpp
+c++ lw.cpp 
+vi lw.cpp
+c++ lw.cpp 
+vi lw.cpp
+c++ lw.cpp 
+vi lw.cpp
+c++ lw.cpp 
+./a.exe 
+./a.exe test.txt
+vi lw.cpp 
+./a.exe test.txt
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+vi test.txt
+vi test.txt
+./a.exe test.txt 
+vi test.txt
+ls
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+vi lw.cpp 
+cp lw.cpp
+vi lw.cpp  lw1.cpp
+cp lw.cpp lw1.cpp
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+cat lw.cpp 
+cat lw1.cpp
+cat lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+cat lw1.cpp
+vi lw.cpp 
+cat lw1.cpp
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+cp C:\Users\shanmu\Downloads .
+
+ls -lrt
+cp /cygdrive/c/Users/shanmu/Downloads/wordsforproblem.txt .
+ls
+./a.exe wordsforproblem.txt 
+./a.exe wordsforproblem.txt 
+vi wordsforproblem.txt 
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe wordsforproblem.txt 
+vi lw.cpp 
+./a.exe wordsforproblem.txt | more
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe wordsforproblem.txt | more
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe wordsforproblem.txt | more
+./a.exe wordsforproblem.txt
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+./a.exe test.txt 
+c++ lw.cpp 
+vi lw.cpp 
+c++ lw.cpp 
+vi lw.cpp
+exit
+echo shell
+echo $shell
+echo $SHELL
+uname
+grep flags /proc/cpuinfo
+less /etc/group
+less /etc/passwd 
+more /etc/passwd 
+echo $?
+ls
+ls *pl
+cat secretwordlister.pl 
+vi secretwordlister.pl
+ls *pl
+cat fun.pl 
+CMD
+cd /cygdrive/c:/
+ls
+cd  /cygdrive/
+ls
+cdc
+cd c
+ls
+cd "Program Files"
+ls
+cd Eclipse/
+ls
+cd apache-tomcat-8.0.26/
+cd bin
+startup
+ls
+startup.sh
+./startup.sh 
+./startup.sh 
+./shutdown.sh 
+ps
+vi C:\Program Files\Eclipse\apache-tomcat-8.0.26\temp
+cd C:\Program Files\Eclipse\apache-tomcat-8.0.26\temp
+./startup.sh 
+./shutdown.sh 
+./startup.sh 
+./shutdown.sh 
+cd /cygdrive/c
+ls
+cd Program Files
+cd "Program Files"
+cd Eclipse/apache-tomcat-8.0.26/
+sudo yum install tomcat-admin-webapps.noarch tomcat-docs-webapp.noarch tomcat-javadoc.noarch tomcat-systemv.noarch tomcat-webapps.noarch
+install tomcat-admin-webapps.noarch tomcat-docs-webapp.noarch tomcat-javadoc.noarch tomcat-systemv.noarch tomcat-webapps.noarch
+vi MyClass.java
+javac MyClass.java 
+java MyClass 
+vi MyClass.java 
+javac MyClass.java 
+java MyClass 
+vi MyClass.java 
+javac MyClass.java 
+java MyClass 
+vi MyClass.java 
+javac MyClass.java 
+java MyClass 
+vi MyClass.java 
